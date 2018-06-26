@@ -10,7 +10,7 @@ public class myCode {
         System.out.println("นางสาวน้ำทิพย์ เขียวจันทร์ ");
         System.out.println("รหัส 360411760009");
         System.out.println("MIT421");
-        System.out.println("มหาวิทยาลัยเทคโนโลยีราชมงคลศรีวิชัย วิทยาเขตนครศรีธรรมราช ไสใหญ่");
+
 
 
 
